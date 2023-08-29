@@ -4,5 +4,5 @@ BEM VINDO! 🤙
 <hr>
 Eu sou o aluno Izaias salgado dos santos.
 <hr>
-Estou estuando o uso das ferramentas HTML,CSS E JavaScript na instituição Senai.
+Estou estudando o uso das ferramentas HTML,CSS E JavaScript na instituição Senai.
 
