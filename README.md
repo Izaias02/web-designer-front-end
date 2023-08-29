@@ -9,7 +9,7 @@ Estou estudando o uso das ferramentas HTML,CSS E JavaScript na instituição Sen
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Izaias02)](https://github.com/Izaias02)
 
-[![Izaias02 GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaias02&tokyonight)](https://github.com/Izaias02/github-readme-stats)
+[![Izaias02 GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaias02&theme=tokyonight)](https://github.com/Izaias02/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izaias02&layout=compact)](https://github.com/Izaias02/github-readme-stats)
 
