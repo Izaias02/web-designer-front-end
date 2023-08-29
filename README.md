@@ -13,5 +13,8 @@ Estou estudando o uso das ferramentas HTML,CSS E JavaScript na instituição Sen
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izaias02&layout=compact)](https://github.com/Izaias02/github-readme-stats)
 
+minhas principais linguagens até o momento.
+https://github.com/Ileriayo/markdown-badges
+
 
 
